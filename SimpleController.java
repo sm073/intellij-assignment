@@ -68,3 +68,7 @@ public class SimpleController implements Controller {
 		view.showPicture(picture);
 	}
 }
+/**
+* the end of java program
+* the begining of learning 
+* /
